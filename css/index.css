@@ -1,0 +1,42 @@
+:root{
+    --priamry: white;
+    --background: #3d321e;
+    --secondry: #b4ab80;
+    --tetiary: black;
+}
+
+
+#heading{
+
+    color: var(--tetiary);
+}
+
+
+/* #box{
+    background-color: var(--background);
+    border-radius: 10px;
+} */
+
+
+a:hover{
+    color: var(--background);
+}
+
+
+img#imgg{
+    height: 400px;
+    width: 400px;
+    margin-top: 40px;
+    object-fit: cover;
+    
+}
+
+div.row{
+    margin-bottom: 30px;
+}
+
+
+img#modal-image{
+    width: 300px;
+    height: 300px;
+}
